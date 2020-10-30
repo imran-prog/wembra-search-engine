@@ -1,0 +1,69 @@
+
+.mainResults {
+    flex: 1;
+}
+
+.mainResults .resultsCount {
+    font-size: 13px;
+    color: #808080;
+    margin-left: 170px;
+}
+
+.mainResults .siteResult {
+    margin-left: 170px;
+}
+
+.resultContainer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 26px;
+}
+
+.resultContainer .title {
+    margin: 0;
+}
+
+.resultContainer .title a {
+    color: #1a0dab;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.resultContainer .title a:hover {
+    text-decoration: underline;
+}
+
+.resultContainer .url {
+    color: #006621;
+    font-size: 14px;
+}
+
+.resultContainer .description {
+    font-size: 12px;
+}
+
+.paginationContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.pageButtons {
+    display: flex;
+}
+
+.pageNumberContainer img {
+    height: 37px;
+}
+
+.pageNumberContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+}
+.pageNumber {
+    color: #000000;
+    font-size: 13px;
+}

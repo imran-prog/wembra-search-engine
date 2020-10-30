@@ -1,0 +1,728 @@
+https://en.wikipedia.org/wiki/Google: 
+google: 
+Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple, and Facebook.&#91;10&#93;&#91;11&#93;\n
+
+https://en.wikipedia.org/wiki/Online_advertising: 
+online advertising: 
+Online advertising, also known as online marketing, Internet advertising, digital advertising or web advertising, is a form of marketing and advertising which uses the Internet to deliver promotional marketing messages to consumers.  Many consumers find online advertising disruptive&#91;1&#93; and have increasingly turned to ad blocking for a variety of reasons.\n
+
+https://en.wikipedia.org/wiki/Search_engine: 
+web search engine: 
+A web search engine or Internet search engine is a software system that is designed to carry out web search (Internet search), which means to search the World Wide Web in a systematic way for particular information specified in a textual web search query. The search results are generally presented in a line of results, often referred to as search engine results pages (SERPs). The information may be a mix of links to web pages, images, videos, infographics, articles, research papers, and other types of files. Some search engines also mine data available in databases or open directories.  Unlike web directories, which are maintained only by human editors, search engines also maintain real-time information by running an algorithm on a web crawler.\nInternet content that is not capable of being searched by a web search engine is generally described as the deep web.\n
+
+https://en.wikipedia.org/wiki/Cloud_computing: 
+cloud computing: 
+Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet. Large clouds, predominant today, often have functions distributed over multiple locations from central servers. If the connection to the user is relatively close, it may be designated an edge server.\n
+
+https://en.wikipedia.org/wiki/Big_Four_tech_companies: 
+big four tech companies: 
+The Big Four tech companies,&#91;1&#93; Gang of Four,&#91;2&#93; The Four Horsemen,&#91;3&#93; GAFA,&#91;4&#93; Big Tech&#91;5&#93; or MAGA&#91;6&#93; are the four US multinational online service or computer and software companies that dominate cyberspace during the 2010s: Google, Amazon, Facebook, Apple. Former Google CEO Eric Schmidt argued that Microsoft is not one of the Big Four because "Microsoft is not driving the consumer revolution in the minds of the consumers."&#91;7&#93; Others have included Microsoft in a category with the Big Four, referring to this group as the Big Five&#91;8&#93; or GAFAM.&#91;9&#93;&#91;10&#93;\n
+
+https://en.wikipedia.org/wiki/Apple_Inc.: 
+apple inc.: 
+\n\nCoordinates: 37\xc2\xb020\xe2\x80\xb206\xe2\x80\xb3N 122\xc2\xb000\xe2\x80\xb232\xe2\x80\xb3W&#xfeff; / &#xfeff;37.3349\xc2\xb0N 122.0090\xc2\xb0W&#xfeff; / 37.3349; -122.0090\n
+
+https://en.wikipedia.org/wiki/Facebook,_Inc.: 
+facebook, inc.: 
+Facebook, Inc. is an American social media and technology company based in Menlo Park, California. It was founded by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes, originally as TheFacebook.com\xe2\x80\x94today\'s Facebook, popular global social networking website. It is considered one of the Big Four technology companies along with Amazon, Apple, and Google. Facebook is one of the world\'s most valuable companies.\n
+
+https://en.wikipedia.org/wiki/House: 
+house: 
+A house is a building that functions as a home. They can range from simple dwellings such as rudimentary huts of nomadic tribes and the improvised shacks in shantytowns to complex, fixed structures of wood, brick, concrete or other materials containing plumbing, ventilation, and electrical systems.&#91;1&#93;&#91;2&#93; Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses may have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans. The social unit that lives in a house is known as a household.\n
+
+https://en.wikipedia.org/wiki/Building: 
+building: 
+A building, or edifice, is a structure with a roof and&#91;1&#93; walls standing more or less permanently in one place, such as a house or factory.&#91;1&#93; Buildings come in a variety of sizes, shapes, and functions, and have been adapted throughout history for a wide number of factors, from building materials available, to weather conditions, land prices, ground conditions, specific uses, and aesthetic reasons. To better understand the term building compare the list of nonbuilding structures.\n
+
+https://en.wikipedia.org/wiki/Home: 
+home: 
+A home, or domicile, is a living space used as a permanent or semi-permanent residence for an individual, family, household or several families in a tribe. It is often a house, apartment, or other building, or alternatively a mobile home, houseboat, yurt or any other portable shelter. A principle of constitutional law in many countries, related to the right to privacy enshrined in article 12 of the Universal Declaration of Human Rights&#91;1&#93; is the inviolability of the home as an individual\'s place of shelter and refuge.\n
+
+https://en.wikipedia.org/wiki/Dwelling: 
+dwelling: 
+In law, a dwelling (also residence, abode) is a self-contained unit of accommodation used by one or more households as a home - such as a house, apartment, mobile home, houseboat, vehicle or other "substantial" structure.&#91;citation needed&#93; A dwelling typically includes nearby outbuildings, sheds, etc. within the curtilage of the property, excluding any  "open fields beyond". The concept of a dwlling has significance in relation to search and seizure, conveyancing of real property, burglary, trespass, and land-use planning.\n
+
+https://en.wikipedia.org/wiki/Hut: 
+hut: 
+A hut is a primitive dwelling, which may be constructed of various local materials. Huts are a type of vernacular architecture because they are built of readily available materials such as wood, snow, ice, stone, grass, palm leaves, branches, hides, fabric, or mud using techniques passed down through the generations.\n
+
+https://en.wikipedia.org/wiki/Nomadic_tribes: 
+nomad: 
+A nomad (Middle French: nomade "people without fixed habitation")&#91;1&#93;&#91;dubious&#32; &#8211; discuss&#93; is a member of a community of people without fixed habitation who regularly move to and from the same areas, including hunter-gatherers, pastoral nomads (owning livestock), and tinker or trader nomads.&#91;2&#93;&#91;3&#93;\nAs of 1995, there were  an estimated 30\xe2\x80\x9340 million nomads in the world.&#91;4&#93;\n
+
+https://en.wikipedia.org/wiki/Shack: 
+shack: 
+A shack (or, less often, shanty) is a type of small, often primitive shelter or dwelling. Like huts, shacks are constructed by hand using available materials; however, whereas huts are usually rural and made of natural materials (mud, rocks, sticks, etc.) shacks are generally composed of scavenged man-made materials like abandoned construction debris, repurposed consumer waste and other useful discarded objects that can be quickly acquired at little or no cost and fashioned into a small dwelling. \n
+
+https://en.wikipedia.org/wiki/Shantytown: 
+shanty town: 
+A shanty town or squatter area is a settlement of improvised building that is known as shanties or shacks, made of plywood, corrugated metal, sheets of plastic, and cardboard boxes. Sometimes called a squatter, or spontaneous settlement, a typical shanty town often lacks adequate infrastructure, including proper sanitation, safe water supply, electricity, hygienic streets, or other basic necessities to support human settlements.\n
+
+
+https://en.wikipedia.org/wiki/rock: 
+rock: 
+Rock most often refers to:\n
+
+https://en.wikipedia.org/wiki/garden: 
+garden: 
+A garden is a planned space, usually outdoors, set aside for the display, cultivation, or enjoyment of plants and other forms of nature. The garden can incorporate both natural and man-made materials. The most common form today is a residential garden, but the term garden has traditionally been a more general one. Zoos, which display wild animals in simulated natural habitats, were formerly called zoological gardens.&#91;1&#93;&#91;2&#93; Western gardens are almost universally based on plants, with garden often signifying a shortened form of botanical garden. Some traditional types of eastern gardens, such as Zen gardens, use plants sparsely or not at all.\n
+
+https://en.wikipedia.org/wiki/Plant: 
+plant: 
+Plants are mainly multicellular, predominantly photosynthetic eukaryotes of the kingdom Plantae. Historically, plants were treated as one of two kingdoms including all living things that were not animals, and all algae and fungi were treated as plants. However, all current definitions of Plantae exclude the fungi and some algae, as well as the prokaryotes (the archaea and bacteria). By one definition, plants form the clade Viridiplantae (Latin name for "green plants"), a group that includes the flowering plants, conifers and other gymnosperms, ferns and their allies, hornworts, liverworts, mosses and the green algae, but excludes the red and brown algae.\n
+
+https://en.wikipedia.org/wiki/Residential_garden: 
+garden design: 
+Garden design is the art and process of designing and creating plans for layout and planting of gardens and landscapes. Garden design may be done by the garden owner themselves, or by professionals of varying levels of experience and expertise. Most professional garden designers have some training in horticulture and the principles of design. Some are also landscape architects, a more formal level of training that usually requires an advanced degree and often a state license. Amateur gardeners may also attain a high level of experience from extensive hours working in their own gardens, through casual study, serious study in Master Gardener Programs, or by joining gardening clubs.&#91;citation needed&#93;\n
+
+https://en.wikipedia.org/wiki/Zoo: 
+zoo: 
+A Zoo (also called an animal park or menagerie) is a facility in which all animals are housed within enclosures, displayed to the public, and in which they may also breed.\n
+
+https://en.wikipedia.org/wiki/Wildlife: 
+wildlife: 
+&#160;
+
+https://en.wikipedia.org/wiki/Zoological_gardens: 
+zoo: 
+A Zoo (also called an animal park or menagerie) is a facility in which all animals are housed within enclosures, displayed to the public, and in which they may also breed.\n
+
+https://en.wikipedia.org: 
+main page: 
+Maria Rundell (1745\xe2\x80\x931828) was an English writer. In 1805, when she was over 60, she sent an unedited collection of recipes and household advice to John Murray, of whose family\xe2\x80\x94owners of the John Murray publishing house\xe2\x80\x94she was a friend. Murray published the work, A New System of Domestic Cookery (frontispiece shown), in November 1805. It was a huge success and several editions followed; the book sold around half a million copies in Rundell\'s lifetime. It was aimed at middle class housewives. In addition to dealing with food preparation, it offers advice on medical remedies and how to set up a home brewery, and includes a section entitled "Directions to Servants". She also advises readers on being economical with their food and avoiding waste. Rundell wrote a second book, Letters Addressed to Two Absent Daughters (1814), with advice concerning death, friendship, how to behave in polite company and the types of books a well-mannered young woman should read. (Full&#160;article...)\n
+https://en.wikipedia.org/wiki/sport: 
+sport: 
+Sport includes all forms of competitive physical activity or games which,&#91;1&#93; through casual or organised participation, at least in part aim to use, maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for spectators.&#91;2&#93; Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, simultaneously or consecutively, with one winner; in others, the contest (a match) is between two sides, each attempting to exceed the other. Some sports allow a "tie" or "draw", in which there is no single winner; others provide tie-breaking methods to ensure one winner and one loser. A number of contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs.\n
+
+https://en.wikipedia.org/wiki/Competition: 
+competition: 
+Competition arises whenever at least two parties strive for a goal which cannot be shared: where one\'s gain is the other\'s loss (an example of which is a zero-sum game).&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Physical_activity: 
+physical activity: 
+Physical activity is defined as any bodily movement produced by skeletal muscles that requires energy expenditure.&#91;1&#93;  Physical activity encompasses all activities, at any intensity,  performed during any time of day or night&#91;2&#93;. It includes exercise and incidental activity integrated into daily activity. This integrated activity may not be planned, structured, repetitive or purposeful for the improvement of fitness, and may include activities such as walking to the local shop, cleaning, working, active transport etc. Lack of physical activity is associated with a range of negative health outcomes whereas increased physical activity can improve physical as well as mental health.&#91;3&#93;\n
+
+https://en.wikipedia.org/wiki/Game: 
+game: 
+A game is a structured form of play, usually undertaken for enjoyment and sometimes used as an educational tool.&#91;1&#93; Games are distinct from work, which is usually carried out for remuneration, and from art, which is more often an expression of aesthetic or ideological elements. However, the distinction is not clear-cut, and many games are also considered to be work (such as professional players of spectator sports or games) or art (such as jigsaw puzzles or games involving an artistic layout such as Mahjong, solitaire, or some video games).\n
+
+https://en.wikipedia.org/wiki/Entertainment: 
+entertainment: 
+\n\nEntertainment is a form of activity that holds the attention and interest of an audience or gives pleasure and delight. It can be an idea or a task, but is more likely to be one of the activities or events that have developed over thousands of years specifically for the purpose of keeping an audience\'s attention.&#91;1&#93; Although people\'s attention is held by different things, because individuals have different preferences in entertainment, most forms are recognisable and familiar. Storytelling, music, drama, dance, and different kinds of performance exist in all cultures, were supported in royal courts, developed into sophisticated forms and over time became available to all citizens. The process has been accelerated in modern times by an entertainment industry that records and sells entertainment products. Entertainment evolves and can be adapted to suit any scale, ranging from an individual who chooses a private entertainment from a now enormous array of pre-recorded products; to a banquet adapted for two; to any size or type of party, with appropriate music and dance; to performances intended for thousands; and even for a global audience.\n
+
+https://en.wikipedia.org/wiki/Team: 
+team: 
+A team is a group of individuals (human or non-human) working together to achieve their goal. \n
+
+https://en.wikipedia.org/wiki/Racing: 
+racing: 
+Racing is a sport.\n
+
+https://en.wikipedia.org/wiki/mother: 
+mother: 
+A mother is the female parent of a child. Mothers are women who inhabit or perform the role of bearing some relation to their children, who may or may not be their biological offspring. Thus, dependent on the context, women can be considered mothers by virtue of having given birth, by raising their child(ren), supplying their ovum for fertilisation, or some combination thereof. Such conditions provide a way of delineating the concept of motherhood, or the state of being a mother. Women who meet the third and first categories usually fall under the terms \'birth mother\' or \'biological mother\', regardless of whether the individual in question goes on to parent their child. Accordingly, a woman who meets only the second condition may be considered an adoptive mother, and those who meet only the first or only the third a surrogacy mother.\n
+
+https://en.wikipedia.org/wiki/Female: 
+female: 
+Female (symbol: \xe2\x99\x80) is the sex of an organism, or a part of an organism, that produces non-mobile ova (egg cells). Barring rare medical conditions, most female mammals, including female humans, have two X chromosomes. Female characteristics vary between different species with some species containing more well defined female characteristics, such as the presence of pronounced mammary glands. There is no single genetic mechanism behind sex differences in different species and the existence of two sexes seems to have evolved multiple times independently in different evolutionary lineages.  \n
+
+https://en.wikipedia.org/wiki/Child: 
+child: 
+\nBiologically, a child (plural children) is a human being between the stages of birth and puberty,&#91;1&#93;&#91;2&#93; or between the developmental period of infancy and puberty.&#91;3&#93; The legal definition of child generally refers to a minor, otherwise known as a person younger than the age of majority.&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Women: 
+woman: 
+A woman is a female human being. The word woman is usually reserved for an adult; girl is the usual term for a female child or adolescent. The plural women is also sometimes used for female humans, regardless of age, as in phrases such as "women\'s rights".\n
+
+https://en.wikipedia.org/wiki/Children: 
+child: 
+\nBiologically, a child (plural children) is a human being between the stages of birth and puberty,&#91;1&#93;&#91;2&#93; or between the developmental period of infancy and puberty.&#91;3&#93; The legal definition of child generally refers to a minor, otherwise known as a person younger than the age of majority.&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Offspring: 
+offspring: 
+In biology, offspring are the young born of living organisms, produced either by a single organism or, in the case of sexual reproduction, two organisms. Collective offspring may be known as a brood or progeny in a more general way. This can refer to a set of simultaneous offspring, such as the chicks hatched from one clutch of eggs, or to all the offspring, as with the honeybee.\n
+
+https://en.wikipedia.org/wiki/Fertilisation: 
+fertilisation: 
+Fertilisation or fertilization (see spelling differences), also known as generative fertilisation, insemination, pollination,&#91;1&#93; fecundation, syngamy and impregnation,&#91;2&#93; is the fusion of gametes to initiate the development of a new individual organism or offspring.&#91;3&#93; This cycle of fertilisation and development of new individuals is called sexual reproduction. During double fertilisation in angiosperms the haploid male gamete combines with two haploid polar nuclei to      form a triploid primary endosperm nucleus by the process of vegetative fertilisation.\n
+
+https://en.wikipedia.org/wiki/Adoption: 
+adoption: 
+Adoption is a process whereby a person assumes the parenting of another, usually a child, from that person\'s biological or legal parent or parents. Legal adoptions permanently transfers all rights and responsibilities, along with filiation, from the biological parent or parents.\n
+
+https://en.wikipedia.org/wiki/Surrogate_pregnancy: 
+surrogacy: 
+Surrogacy is an arrangement, often supported by a legal agreement, whereby a woman (the surrogate mother) agrees to bear a child for another person or persons, who will become the child\'s parent(s) after birth.\n
+
+https://en.wikipedia.org/wiki/japan: 
+japan: 
+Japan (Japanese: \xe6\x97\xa5\xe6\x9c\xac, Nippon [\xc9\xb2ippo\xea\x9c\x9c\xc9\xb4]&#32;(listen) or Nihon [\xc9\xb2iho\xea\x9c\x9c\xc9\xb4]&#32;(listen); formally \xe6\x97\xa5\xe6\x9c\xac\xe5\x9b\xbd, Nippon-koku or Nihon-koku, lit.&#8201;\'State of Japan\') is an island country in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian continent and stretches from the Sea of Okhotsk in the north to the East China Sea and the Philippine Sea in the south.\nhttps://en.wikipedia.org/wiki/computer: 
+computer: 
+A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the ability to follow generalized sets of operations, called programs. These programs enable computers to perform an extremely wide range of tasks. A "complete" computer including the hardware, the operating system (main software), and peripheral equipment required and used for "full" operation can be referred to as a computer system. This term may as well be used for a group of computers that are connected and work together, in particular a computer network or computer cluster.\n
+
+https://en.wikipedia.org/wiki/Sequence: 
+sequence: 
+In mathematics, a sequence is an enumerated collection of objects in which repetitions are allowed.  Like a set, it contains members (also called elements, or terms).  The number of elements (possibly infinite) is called the length of the sequence.  Unlike a set, the same elements can appear multiple times at different positions in a sequence, and order matters.  Formally, a sequence can be defined as a function whose domain is either the set of the natural numbers (for infinite sequences) or the set of the first n natural numbers (for a sequence of finite length n).\n
+
+https://en.wikipedia.org/wiki/Arithmetic: 
+arithmetic: 
+Arithmetic (from the Greek \xe1\xbc\x80\xcf\x81\xce\xb9\xce\xb8\xce\xbc\xcf\x8c\xcf\x82 arithmos, "number" and \xcf\x84\xce\xb9\xce\xba\xce\xae [\xcf\x84\xce\xad\xcf\x87\xce\xbd\xce\xb7], tik\xc3\xa9 [t\xc3\xa9chne], "art") is a branch of mathematics that consists of the study of numbers, especially the properties of the traditional operations on them\xe2\x80\x94addition, subtraction, multiplication and division. Arithmetic is an elementary part of number theory, and number theory is considered to be one of the top-level divisions of modern mathematics, along with algebra, geometry, and analysis. The terms arithmetic and higher arithmetic were used until the beginning of the 20th&#160;century as synonyms for number theory and are sometimes still used to refer to a wider part of number theory.&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Boolean_algebra: 
+boolean algebra: 
+In mathematics and mathematical logic, Boolean algebra is the branch of algebra in which the values of the variables are the truth values true and false, usually denoted 1 and 0 respectively. Instead of elementary algebra where the values of the variables are numbers, and the prime operations are addition and multiplication, the main operations of Boolean algebra are the conjunction (and) denoted as \xe2\x88\xa7, the disjunction (or) denoted as \xe2\x88\xa8, and the negation (not) denoted as \xc2\xac. It is thus a formalism for describing logical operations in the same way that elementary algebra describes numerical operations.\n
+
+https://en.wikipedia.org/wiki/Computer_programming: 
+computer programming: 
+Computer programming is the process of designing and building an executable computer program for accomplishing a specific computing task. Programming involves tasks such as: analysis, generating algorithms, profiling algorithms\' accuracy and resource consumption, and the implementation of algorithms in a chosen programming language (commonly referred to as coding).&#91;1&#93;&#91;2&#93; The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit. The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem. The process of programming thus often requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.\n
+
+https://en.wikipedia.org/wiki/Computer_hardware: 
+computer hardware: 
+Computer hardware includes the physical, tangible parts or components of a computer, such as the cabinet, central processing unit, monitor, keyboard, computer data storage, graphics card, sound card, speakers and motherboard.&#91;1&#93; By contrast, software is instructions that can be stored and run by hardware. Hardware is so-termed because it is "hard" or rigid with respect to changes or modifications; whereas software is "soft" because it is easy to update or change. Intermediate between software and hardware is "firmware", which is software that is strongly coupled to the particular hardware of a computer system and thus the most difficult to change but also among the most stable with respect to consistency of interface. The progression from levels of "hardness" to "softness" in computer systems parallels a progression of layers of abstraction in computing.\n
+
+https://en.wikipedia.org/wiki/Peripheral: 
+peripheral: 
+A peripheral or peripheral device is "an ancillary device used to put information into and get information out of the computer".&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Computer_network: 
+computer network: 
+A computer network is a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections (data links) between nodes. These data links are established over cable media such as twisted pair or fiber-optic cables, and wireless media such as Wi-Fi.\n
+
+https://en.wikipedia.org/wiki/Computer_cluster: 
+computer cluster: 
+A computer cluster is a set of loosely or tightly connected computers that work together so that, in many respects, they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software.\n
+
+
+
+https://en.wikipedia.org/wiki/doctor: 
+doctor: 
+Doctor or The Doctor may refer to:\n
+
+
+
+https://en.wikipedia.org/wiki/tower: 
+tower: 
+A tower is a tall structure, taller than it is wide, often by a significant margin.  Towers are distinguished from masts by their lack of guy-wires and are therefore, along with tall buildings, self-supporting structures.\n
+
+https://en.wikipedia.org/wiki/Nonbuilding_structure: 
+list of nonbuilding structure types: 
+A nonbuilding structure, also referred to simply as a structure, refers to any body or system of connected parts used to support a load that was not designed for continuous human occupancy. The term is used by architects, structural engineers, and mechanical engineers to distinctly identify built structures that are not buildings.&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Guyed_mast: 
+guyed mast: 
+A guyed mast is a tall thin vertical structure that depends on guy lines for stability.  The mast itself has the compressive strength to support its own weight, but does not have the shear strength to stand unsupported, and requires guy lines to resist lateral forces such as wind loads and keep it upright. Guy lines are diagonal tensioned cables attached to the ground, usually spaced at equal angles about the structure\'s base.\n
+
+https://en.wikipedia.org/wiki/Guy-wires: 
+guy-wire: 
+A guy-wire, guy-line, or guy-rope, also known as simply a guy, is a tensioned cable designed to add stability to a free-standing structure.   They are used commonly in ship masts, radio masts, wind turbines, utility poles, fire service extension ladders used in church raises and tents.   A thin vertical mast supported by guy wires is called a guyed mast.  Structures that support antennas are frequently of a lattice construction and are called "towers".  One end of the guy is attached to the structure, and the other is anchored to the ground at some distance from the mast or tower base.  The tension in the diagonal guy-wire, combined with the compression and buckling strength of the structure, allows the structure to withstand lateral loads such as wind or the weight of cantilevered structures.  They are installed radially, usually at equal angles about the structure, in trios and quads.  As the tower leans a bit due to the wind force, the increased guy tension is resolved into a compression force in the tower or mast and a lateral force that resists the wind load. For example, antenna masts are often held up by three guy-wires at 120\xc2\xb0 angles.  Structures with  predictable lateral loads, such as electrical utility poles, may require only a single guy-wire to offset the lateral pull of the electrical wires, at a spot where the wires change direction.\n
+
+https://en.wikipedia.org/wiki/Occupancy: 
+occupancy: 
+\nWithin the context of building construction and building codes, "occupancy" refers to the use, or intended use, of a building, or portion of a building, for the shelter or support of persons, animals or property.&#91;1&#93;  A closely related meaning is the number of units in such a building that are rented, leased, or otherwise in use. Lack of occupancy, in this sense, is a "vacancy".\n
+
+https://en.wikipedia.org/wiki/Architect: 
+architect: 
+An architect is a person who plans, designs and reviews the construction of buildings.  To practice architecture means to provide services in connection with the design of buildings and the space within the site surrounding the buildings that have human occupancy or use as their principal purpose.&#91;1&#93; Etymologically, architect derives from the Latin architectus, which derives from the Greek (arkhi-, chief + tekton, builder), i.e., chief builder.&#91;2&#93;\n
+
+https://en.wikipedia.org/wiki/Structural_engineer: 
+structural engineer: 
+Structural engineers analyze, design, plan, and research structural components and structural systems to achieve design goals and ensure the safety and comfort of users or occupants. Their work takes account mainly of safety, technical, economic and environmental concerns, but they may also consider aesthetic and social factors.\n
+
+https://en.wikipedia.org/wiki/Mechanical_engineering: 
+mechanical engineering: 
+Mechanical engineering is the discipline that applies engineering physics, engineering mathematics, and materials science principles to design, analyze, manufacture, and maintain mechanical systems.  It is one of the oldest and broadest of the engineering disciplines.\n
+
+https://en.wikipedia.org/wiki/Structure: 
+structure: 
+A structure is an arrangement and organization of interrelated elements in a material object or system, or the object or system so organized.&#91;1&#93; Material structures include man-made objects such as buildings and machines and natural objects such as biological organisms, minerals and chemicals. Abstract structures include data structures in computer science and musical form. Types of structure include a hierarchy (a cascade of one-to-many relationships), a network featuring many-to-many links, or a lattice featuring connections between components that are neighbors in space.\n
+
+https://en.wikipedia.org/wiki/lion: 
+lion: 
+The lion (Panthera leo) is a species in the family Felidae; it is a muscular, deep-chested cat with a short, rounded head, a reduced neck and round ears, and a hairy tuft at the end of its tail. It is sexually dimorphic; male lions have a prominent mane, which is the most recognisable feature of the species. With a typical head-to-body length of 184\xe2\x80\x93208&#160;cm (72\xe2\x80\x9382&#160;in) they are larger than females at 160\xe2\x80\x93184&#160;cm (63\xe2\x80\x9372&#160;in). It is a social species, forming groups called prides. A lion pride consists of a few adult males, related females and cubs. Groups of female lions usually hunt together, preying mostly on large ungulates. The lion is an apex and keystone predator, although some lions scavenge when opportunities occur, and have been known to hunt humans, although the species typically does not.\n
+
+https://en.wikipedia.org/wiki/Species: 
+species: 
+In biology, a species (/\xcb\x88spi\xcb\x90\xca\x83i\xcb\x90z/&#32;(listen)) is the basic unit of classification and a taxonomic rank of an organism, as well as a unit of biodiversity. A species is often defined as the largest group of organisms in which any two individuals of the appropriate sexes or mating types can produce fertile offspring, typically by sexual reproduction. Other ways of defining species include their karyotype, DNA sequence, morphology, behaviour or ecological niche. In addition, paleontologists use the concept of the chronospecies since fossil reproduction cannot be examined.\n
+
+https://en.wikipedia.org/wiki/Felidae: 
+felidae: 
+Felidae is a family of mammals in the order Carnivora, colloquially referred to as cats, and constitutes a clade. A member of this family is also called a felid.&#91;3&#93;&#91;4&#93;&#91;5&#93;&#91;6&#93; The term "cat" refers both to felids in general and specifically to the domestic cat (Felis catus).&#91;7&#93;\n
+
+https://en.wikipedia.org/wiki/Sexually_dimorphic: 
+sexual dimorphism: 
+Sexual dimorphism is the condition where the two sexes of the same species exhibit different characteristics beyond the differences in their sexual organs. The condition occurs in many animals and some plants. Differences may include secondary sex characteristics, size, weight, colour, markings, and may also include behavioral and cognitive differences. These differences may be subtle or exaggerated, and may be subjected to sexual selection. The opposite of dimorphism is monomorphism.&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Social_species: 
+sociality: 
+Sociality is the degree to which individuals in an animal population tend to associate in social groups (gregariousness) and form cooperative societies.\n
+
+https://en.wikipedia.org/wiki/Ungulate: 
+ungulate: 
+Ungulates (pronounced /\xcb\x88\xca\x8c\xc5\x8b\xc9\xa1j\xc9\x99le\xc9\xaats/ UNG-gy\xc9\x99-layts) are any members of a diverse group of primarily large mammals with hooves. These include odd-toed ungulates such as horses and rhinoceroses, and even-toed ungulates such as cattle, pigs, giraffes, camels, deer, and hippopotamuses, as well as sub-ungulates such as elephants. Most terrestrial ungulates use the tips of their toes, usually hoofed, to sustain their whole body weight while moving.\n
+
+https://en.wikipedia.org/wiki/Apex_predator: 
+apex predator: 
+ An apex predator, also known as an alpha predator or top predator, is a predator at the top of a food chain, with no natural predators.&#91;a&#93;&#91;5&#93;&#91;6&#93;\n
+
+https://en.wikipedia.org/wiki/Keystone_predator: 
+keystone species: 
+A keystone species is a species which has a disproportionately large effect on its natural environment relative to its abundance, a concept introduced in 1969 by the zoologist Robert T. Paine. Such species are described as playing a critical role in maintaining the structure of an ecological community, affecting many other organisms in an ecosystem and helping to determine the types and numbers of various other species in the community. Without keystone species, the ecosystem would be dramatically different or cease to exist altogether. Some keystone species, such as the wolf, are also apex predators.\n
+
+https://en.wikipedia.org/wiki/Biology: 
+biology: 
+Biology is the natural science that studies life and living organisms, including their physical structure, chemical processes, molecular interactions, physiological mechanisms, development and evolution.&#91;1&#93; Despite the complexity of the science, there are certain unifying concepts that consolidate it into a single, coherent field. Biology recognizes the cell as the basic unit of life, genes as the basic unit of heredity, and evolution as the engine that propels the creation and extinction of species. Living organisms are open systems that survive by transforming energy and decreasing their local entropy&#91;2&#93; to maintain a stable and vital condition defined as homeostasis.&#91;3&#93;\n
+
+https://en.wikipedia.org/wiki/gun: 
+gun: 
+A gun is a ranged weapon typically designed to pneumatically discharge solid projectiles&#91;1&#93;  but can also be liquid (as in water guns/cannons and projected water disruptors) or even charged particles (as in a plasma gun) and may be free-flying (as with bullets and artillery shells) or tethered (as with Taser guns, spearguns and harpoon guns).\n
+
+https://en.wikipedia.org/wiki/Ranged_weapon: 
+ranged weapon: 
+A ranged weapon is any weapon that can engage targets beyond hand-to-hand distance, i.e. at distances greater than the physical reach of the weapon itself.  It is sometimes also called projectile weapon or missile weapon because it typically works by launching projectiles, though technically a directed-energy weapon (which does not involve projectiles) is also a ranged weapon.  In contrast, a weapon intended to be used in hand-to-hand combat is called a melee weapon.\n
+
+https://en.wikipedia.org/wiki/Pneumatic: 
+pneumatics: 
+Pneumatics (From Greek: \xcf\x80\xce\xbd\xce\xb5\xcf\x8d\xce\xbc\xce\xb1 pneuma, meaning breath of life) is a branch of engineering that makes use of gas or pressurized air.\n
+
+https://en.wikipedia.org/wiki/Water_gun: 
+water gun: 
+A water gun (or water pistol, water blaster, or squirt gun) is a type of toy gun designed to shoot water. Similar to water balloons, the primary purpose of the toy is to soak another person in a game such as water warfare. \n
+
+https://en.wikipedia.org/wiki/Water_cannon: 
+water cannon: 
+A water cannon is a device that shoots a high-velocity stream of water. Typically, a water cannon can deliver a large volume of water, often over dozens of meters. They are used in firefighting, large vehicle washing, riot control, and mining. Most water cannons fall under the category of a fire monitor.\n
+
+https://en.wikipedia.org/wiki/Projected_water_disruptors: 
+bomb disposal: 
+Bomb disposal is an explosives engineering profession using the process by which hazardous explosive devices are rendered safe. Bomb disposal is an all-encompassing term to describe the separate, but interrelated functions in the military fields of explosive ordnance disposal (EOD) and improvised explosive device disposal (IEDD), and the public safety roles of public safety bomb disposal (PSBD) and the bomb squad.\n
+
+https://en.wikipedia.org/wiki/Charged_particle: 
+charged particle: 
+In physics, a charged particle is a particle with an electric charge. It may be an ion, such as a molecule or atom with a surplus or deficit of electrons relative to protons. It can also be an electron or a proton, or another elementary particle, which are all believed to have the same charge&#91;1&#93; (except antimatter). Another charged particle may be an atomic nucleus devoid of electrons, such as an alpha particle.\n
+
+https://en.wikipedia.org/wiki/Plasma_gun: 
+dense plasma focus: 
+A dense plasma focus (DPF) is a type of plasma generating system originally developed as a fusion power device starting in the early 1960s. The system demonstrated scaling laws that suggested it would not be useful in the commercial power role, and since the 1980s it has been used primarily as a fusion teaching system, and as a source of neutrons and X-rays.\n
+
+
+
+https://en.wikipedia.org/wiki/Typewriter: 
+typewriter: 
+A typewriter is a mechanical or electromechanical machine for writing characters similar to those produced by a printer\'s movable type. Typically, a typewriter has an array of keys, and each one causes a different single character to be produced on the paper, by means of a ribbon with dried ink struck against the paper by a type element similar to the sorts used in movable type letterpress printing. On some typewriters, a separate type element (called a typebar) corresponds to each key; others use a single type element (such as a typeball or disc) with a different portion of it used for each character. At the end of the nineteenth century, the term typewriter was also applied to a person who used a typing machine.&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Machine_(mechanical): 
+machine: 
+A machine (or mechanical device) is a mechanical structure that uses power to apply forces and control movement to perform an intended action.  Machines can be driven by animals and people, by natural forces such as wind and water, and by chemical, thermal, or electrical power, and include a system of mechanisms that shape the actuator input to achieve a specific application of output forces and movement.  They can also include computers and sensors that monitor performance and plan movement, often called mechanical systems.\n
+
+https://en.wikipedia.org/wiki/Electromechanical: 
+electromechanics: 
+In engineering, electromechanics&#91;1&#93;&#91;2&#93;&#91;3&#93;&#91;4&#93; combines processes and procedures drawn from electrical engineering and mechanical engineering. Electromechanics focuses on the interaction of electrical and mechanical systems as a whole and how the two systems interact with each other. This process is especially prominent in systems such as those of DC or AC rotating electrical machines which can be designed and operated to generate power from a mechanical process (generator) or used to power a mechanical effect (motor). Electrical engineering in this context also encompasses electronics engineering.\n
+
+https://en.wikipedia.org/wiki/Movable_type: 
+movable type: 
+Movable type (US English; moveable type in British English) is the system and technology of printing and typography that uses movable components to reproduce the elements of a document (usually individual alphanumeric characters or punctuation marks) usually on the medium of paper.\n
+
+https://en.wikipedia.org/wiki/Button_(control): 
+push-button: 
+A push-button (also spelled pushbutton) or simply button is a simple switch mechanism to control some aspect of a machine or a process. Buttons are typically made out of hard material, usually plastic or metal.&#91;1&#93; The surface is usually flat or shaped to accommodate the human finger or hand, so as to be easily depressed or pushed. Buttons are most often biased switches, although many un-biased buttons (due to their physical nature) still require a spring to return to their un-pushed state.\nTerms for the "pushing" of a button include pressing, depressing, mashing, slapping, hitting, and punching.\n
+
+https://en.wikipedia.org/wiki/Letterpress_printing: 
+letterpress printing: 
+Letterpress printing is a technique of relief printing using a printing press, a process by which many copies are produced by repeated direct impression of an inked, raised surface against sheets or a continuous roll of paper.&#91;1&#93; A worker composes and locks movable type into the "bed" or "chase" of a press, inks it, and presses paper against it to transfer the ink from the type which creates an impression on the paper.\n
+
+https://en.wikipedia.org/wiki/Typing: 
+typing: 
+Typing is the process of writing or inputting text by pressing keys on a typewriter, computer keyboard, cell phone, or calculator. It can be distinguished from other means of text input, such as handwriting and speech recognition. Text can be in the form of letters, numbers and other symbols. The world\'s first typist was Lillian Sholes from Wisconsin,&#91;1&#93;&#91;2&#93; the daughter of Christopher Sholes, who invented the first practical typewriter.&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Mechanical_structure: 
+structural engineering: 
+Structural engineering is a sub-discipline of civil engineering in which structural engineers are trained to design the \'bones and muscles\' that create the form and shape of man made structures. Structural engineers need to understand and calculate the stability, strength and rigidity of built structures for buildings&#91;1&#93; and nonbuilding structures. The structural designs are integrated with those of other designers such as architects and building services engineer and often supervise the construction of projects by contractors on site.&#91;2&#93; They can also be involved in the design of machinery, medical equipment, and vehicles where structural integrity affects functioning and safety.  See glossary of structural engineering.\n
+
+https://en.wikipedia.org/wiki/Power_(physics): 
+power (physics): 
+In physics, power is the rate of doing work or of transferring heat, i.e. the amount of energy transferred or converted per unit time.  Having no direction, it is a scalar quantity.  In the International System of Units, the unit of power is the joule per second (J/s), known as the watt (W) in honour of James Watt, the eighteenth-century developer of the condenser steam engine.  Another common and traditional measure is horsepower (comparing to the power of a horse); one mechanical horsepower equals about 745.7 watts. Being the rate of work, the equation for power can be written as:\n
+
+https://en.wikipedia.org/wiki/oppo: 
+oppo: 
+Guangdong OPPO Mobile Telecommunications Corp., Ltd, commonly referred to as OPPO, is a Chinese consumer electronics and mobile communications company headquartered in Dongguan, Guangdong, in China, and known for its smartphones, Blu-ray players and other electronic devices. A leading manufacturer of smartphones,&#91;1&#93; OPPO was the top smartphone brand in China in 2019 and was ranked No. 5 worldwide.&#91;2&#93;It is a subsidiary of BBK Electronics. It is a part of BBK Electronics Corporation along with Vivo, Realme and OnePlus. \n
+
+https://en.wikipedia.org/wiki/Dongguan: 
+dongguan: 
+Dongguan (Chinese&#58; \xe4\xb8\x9c\xe8\x8e\x9e\xe5\xb8\x82) is a first-tier city in central Guangdong Province, China. An important industrial city in the Pearl River Delta, Dongguan borders the provincial capital of Guangzhou to the north, Huizhou to the northeast, Shenzhen to the south, and the Pearl River to the west. It is part of the Pearl River Delta megacity with more than 44.78 million inhabitants at the 2010 census spread over nine municipalities (including Macao) across an area of 17,573 square kilometres (6,785&#160;sq&#160;mi).&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Smartphone: 
+smartphone: 
+Smartphones are a class of mobile phones and of multi-purpose mobile computing devices. They are distinguished from feature phones by their stronger hardware capabilities and extensive mobile operating systems, which facilitate wider software, internet (including web browsing&#91;1&#93; over mobile broadband), and multimedia functionality (including music, video, cameras, and gaming), alongside core phone functions such as voice calls and text messaging. Smartphones typically contain a number of metal\xe2\x80\x93oxide\xe2\x80\x93semiconductor (MOS) integrated circuit (IC) chips, include various sensors that can be leveraged by their software (such as a magnetometer, proximity sensors, barometer, gyroscope, or accelerometer), and support wireless communications protocols (such as Bluetooth, Wi-Fi, or satellite navigation).\n
+
+https://en.wikipedia.org/wiki/Blu-ray: 
+blu-ray: 
+Blu-ray or Blu-ray Disc (BD) is a digital optical disc data storage format. It was designed to supersede the DVD format, and is capable of storing several hours of video in high-definition (HDTV 720p and 1080p) and ultra high-definition resolution (2160p). The main application of Blu-ray is as a medium for video material such as feature films and for the physical distribution of video games for the PlayStation 3, PlayStation 4, and Xbox One. The name "Blu-ray" refers to the blue laser (actually a violet laser) used to read the disc, which allows information to be stored at a greater density than is possible with the longer-wavelength red laser used for DVDs.\n
+
+https://en.wikipedia.org: 
+main page: 
+Super Science Stories was an American pulp science fiction magazine published by Popular Publications. Frederik Pohl (pictured) did most of the editing from 1940 to 1943, and the title was revived from 1949 to 1951 with Ejler Jakobsson as editor. Popular gave Pohl a very low budget, and he wrote many of the stories himself. Most of the submitted manuscripts had already been rejected by other magazines, but he was able to acquire stories for the early issues from the Futurians, a group of young science fiction fans and aspiring writers. Super Science Stories was an initial success, and Pohl managed to obtain stories by writers who later became well known, such as Isaac Asimov and Robert Heinlein. When Jakobsson took over, he ran many reprinted stories. Although the magazine was never regarded as one of the leading titles of the genre, science fiction historian Raymond Thompson describes it as "one of the most interesting magazines to appear during the 1940s". (Full&#160;article...)\n
+
+https://en.wikipedia.org/wiki/BBK_Electronics: 
+bbk electronics: 
+BBK Electronics Corporation (Chinese&#58; \xe5\xb9\xbf\xe4\xb8\x9c\xe6\xad\xa5\xe6\xad\xa5\xe9\xab\x98\xe7\x94\xb5\xe5\xad\x90\xe5\xb7\xa5\xe4\xb8\x9a\xe6\x9c\x89\xe9\x99\x90\xe5\x85\xac\xe5\x8f\xb8 or Guangzhou Bu Bu Gao Electronics Industrial Private Limited) is a Chinese multinational firm specializing in electronics such as television sets, MP3 players, digital cameras and smartphones.\n
+
+https://en.wikipedia.org/wiki/Vivo_(technology_company): 
+vivo (technology company): 
+vivo Communication Technology Co. Ltd. is a Chinese technology company owned by BBK Electronics that designs and manufactures smartphones and smartphone accessories in China, software and online services. BBK Electronics also owns Oppo, Realme and OnePlus. The company develops software for its phones, distributed through its vivo App Store, with iManager included in their proprietary, Android-based operating system, Funtouch OS.\n
+
+https://en.wikipedia.org/wiki/OnePlus: 
+oneplus: 
+One Plus Technology (Shenzhen) Co., Ltd., commonly referred to as OnePlus, is a Chinese smartphone manufacturer, which is based in Shenzhen, Guangdong. It was founded by Pete Lau (CEO) and Carl Pei in December 2013. The company officially serves 34 countries and regions around the world as of July&#160;2018&#91;update&#93;.&#91;2&#93; They have released numerous phones, amongst other products. It is a subsidiary of BBK Electronics, along with Oppo, Realme and Vivo. \n
+
+https://en.wikipedia.org/wiki/Chinese_city_tier_system: 
+chinese city tier system: 
+The Chinese city tier system (Chinese&#58; \xe4\xb8\xad\xe5\x9b\xbd\xe5\x9f\x8e\xe5\xb8\x82\xe7\xad\x89\xe7\xba\xa7\xe5\x88\xb6) is a hierarchical classification of Chinese cities. There are no such official lists in China, as the Chinese government does not publish or recognize an official definition or a list of cities included in the tier system.  However, it is frequently referred to by various media publications for purposes including commerce, transportation, tourism, education, and more.&#91;1&#93;&#91;2&#93; Given the rapid development of Chinese cities and the ever-changing dynamic among cities, the tier system has gained wide popularity in recent years as a point of reference. Cities in different tiers reflect differences in consumer behavior, income level, population size, consumer sophistication, infrastructure, talent pool, and business opportunity.&#91;3&#93; The tier system typically includes cities in mainland China only.\n
+
+https://en.wikipedia.org/wiki/apple: 
+apple: 
+An apple is a sweet, edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian tradition.\n
+
+https://en.wikipedia.org/wiki/Fruit: 
+fruit: 
+In botany, a fruit is the seed-bearing structure in flowering plants (also known as angiosperms) formed from the ovary after flowering.\n
+
+https://en.wikipedia.org/wiki/Fruit_tree: 
+fruit tree: 
+A fruit tree is a tree which bears fruit that is consumed or used by humans and some animals &#8212; all trees that are flowering plants produce fruit, which are the ripened ovaries of flowers containing one or more seeds. In horticultural usage, the term \'fruit tree\' is limited to those that provide fruit for human food. Types of fruits are described and defined elsewhere (see Fruit), but would include "fruit" in a culinary sense, as well as some nut-bearing trees, such as walnuts.\n
+
+https://en.wikipedia.org/wiki/Agriculture: 
+agriculture: 
+Agriculture is the science and art of cultivating plants and livestock.&#91;1&#93; Agriculture was the key development in the rise of sedentary human civilization, whereby farming of domesticated species created food surpluses that enabled people to live in cities. The history of agriculture began thousands of years ago. After gathering wild grains beginning at least 105,000 years ago, nascent farmers began to plant them around 11,500 years ago. Pigs, sheep and cattle were domesticated over 10,000 years ago. Plants were independently cultivated in at least 11 regions of the world. Industrial agriculture based on large-scale monoculture in the twentieth century came to dominate agricultural output, though about 2 billion people still depended on subsistence agriculture into the twenty-first.\n
+
+https://en.wikipedia.org/wiki/Genus: 
+genus: 
+A genus (plural genera) is a taxonomic rank used in the biological classification of living and fossil organisms, as well as viruses,&#91;1&#93; in biology. In the hierarchy of biological classification, genus comes above species and below family. In binomial nomenclature, the genus name forms the first part of the binomial species name for each species within the genus.\n
+
+https://en.wikipedia.org/wiki/Malus: 
+<i>malus</i>: 
+See text\n
+
+https://en.wikipedia.org/wiki/Central_Asia: 
+central asia: 
+Central Asia is a region which stretches from the Caspian Sea in the west to China in the east, and from Afghanistan and Iran in the south to Russia in the north. The region consists of the former Soviet republics of Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.&#91;2&#93; It is also colloquially referred to as "the stans" as the countries generally considered to be within the region all have names ending with the Persian suffix "-stan", meaning "land of".&#91;3&#93;\n
+
+https://en.wikipedia.org/wiki/Malus_sieversii: 
+<i>malus sieversii</i>: 
+Malus sieversii is a wild apple native to the mountains of Central Asia in southern Kazakhstan. It has recently been shown to be the primary ancestor of most cultivars of the domesticated apple (Malus domestica). It was first described (as Pyrus sieversii) in 1833 by Carl Friedrich von Ledebour, a German naturalist who saw them growing in the Altai Mountains.\n
+
+https://en.wikipedia.org/wiki/Asia: 
+asia: 
+Asia (/\xcb\x88e\xc9\xaa\xca\x92\xc9\x99, \xcb\x88e\xc9\xaa\xca\x83\xc9\x99/&#32;(listen)) is Earth\'s largest and most populous continent, located primarily in the Eastern and Northern Hemispheres. It shares the continental landmass of Eurasia with the continent of Europe and the continental landmass of Afro-Eurasia with both Europe and Africa. Asia covers an area of 44,579,000 square kilometres (17,212,000&#160;sq&#160;mi), about 30% of Earth\'s total land area and 8.7% of the Earth\'s total surface area. The continent, which has long been home to the majority of the human population,&#91;5&#93; was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements, as well as vast barely populated regions. Its 4.5 billion people (as of June&#160;2019&#91;update&#93;) constitute roughly 60% of the world\'s population.&#91;6&#93;\n
+
+https://en.wikipedia.org/wiki/africa: 
+africa: 
+Africa is the world\'s second-largest and second-most populous continent. At about 30.3 million km2 (11.7 million square&#160;miles) including adjacent islands, it covers 6% of Earth\'s total surface area and 20% of its land area.&#91;4&#93; With\n1.3 billion people&#91;1&#93;&#91;2&#93; as of 2018, it accounts for about 16% of the world\'s human population. The continent is surrounded by the Mediterranean Sea to the north, the Isthmus of Suez and the Red Sea to the northeast, the Indian Ocean to the southeast and the Atlantic Ocean to the west. The continent includes Madagascar and various archipelagos. It contains 54 fully recognised sovereign states (countries), nine territories and two de facto independent states with limited or no recognition.&#91;5&#93; The majority of the continent and its countries are in the Northern Hemisphere, with a substantial portion and number of countries in the Southern Hemisphere.\n
+
+https://en.wikipedia.org/wiki/Continent: 
+continent: 
+A continent is one of several very large landmasses. Generally identified by convention rather than any strict criteria, up to seven regions are commonly regarded as continents. Ordered from largest in area to smallest, they are: Asia, Africa, North America, South America, Antarctica, Europe, and Australia.&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Earth: 
+earth: 
+Earth is the third planet from the Sun and the only astronomical object known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4.5 billion years ago. Earth\'s gravity interacts with other objects in space, especially the Sun and the Moon, which is Earth\'s only natural satellite. Earth orbits around the Sun in 365.265 days, a period known as an Earth sidereal year. During this time, Earth rotates about its axis about 366.265 times.&#91;n 6&#93;\n
+
+https://en.wikipedia.org: 
+main page: 
+Super Science Stories was an American pulp science fiction magazine published by Popular Publications. Frederik Pohl (pictured) did most of the editing from 1940 to 1943, and the title was revived from 1949 to 1951 with Ejler Jakobsson as editor. Popular gave Pohl a very low budget, and he wrote many of the stories himself. Most of the submitted manuscripts had already been rejected by other magazines, but he was able to acquire stories for the early issues from the Futurians, a group of young science fiction fans and aspiring writers. Super Science Stories was an initial success, and Pohl managed to obtain stories by writers who later became well known, such as Isaac Asimov and Robert Heinlein. When Jakobsson took over, he ran many reprinted stories. Although the magazine was never regarded as one of the leading titles of the genre, science fiction historian Raymond Thompson describes it as "one of the most interesting magazines to appear during the 1940s". (Full&#160;article...)\n
+
+https://en.wikipedia.org/wiki/Human_population: 
+world population: 
+In demographics, the world population is the total number of humans currently living, and was estimated to have reached 7.7 billion people as of April 2019&#91;update&#93;.&#91;2&#93; It took over 200,000 years of human history for the world\'s population to reach 1 billion,&#91;3&#93; and only 200 years more to reach 7 billion.&#91;4&#93;\n
+
+https://en.wikipedia.org/wiki/Mediterranean_Sea: 
+mediterranean sea: 
+The&#160;Mediterranean Sea is a sea connected to the Atlantic Ocean, surrounded by the Mediterranean Basin and almost completely enclosed by land: on the north by Southern Europe and Anatolia, on the south by North Africa and on the east by the Levant. Although the sea is sometimes considered a part of the Atlantic Ocean, it is usually referred to as a separate body of water. Geological evidence indicates that around 5.9&#160;million years ago, the Mediterranean was cut off from the Atlantic and was partly or completely desiccated over a period of some 600,000 years (the Messinian salinity crisis) before being refilled by the Zanclean flood about 5.3&#160;million years ago.\n
+
+https://en.wikipedia.org/wiki/Isthmus_of_Suez: 
+isthmus of suez: 
+The Isthmus of Suez is the 75-mile-wide (125-km) strip of land&#91;1&#93; that lies between the Mediterranean Sea and the Red Sea, and is the boundary between the continents of Africa and Asia.&#91;2&#93; Beneath it runs the Suez Rift, dividing mainland Egypt and Africa from the Sinai Peninsula. It is located within the country of Egypt, geographically linking the Mediterranean and Red Seas. Like many other isthmuses, it is a location of great strategic and historical value, most notably the presence of the Suez Canal.\n
+
+https://en.wikipedia.org/wiki/planet: 
+planet: 
+Shown in order from the Sun and in true color. Sizes are not to scale.\n
+
+https://en.wikipedia.org/wiki/Sun: 
+sun: 
+The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma,&#91;15&#93;&#91;16&#93; with internal convective motion that generates a magnetic field via a dynamo process.&#91;17&#93; It is by far the most important source of energy for life on Earth. Its diameter is about 1.39 million kilometers (864,000 miles), or 109 times that of Earth, and its mass is about 330,000 times that of Earth. It accounts for about 99.86% of the total mass of the Solar System.&#91;18&#93;\nRoughly three quarters of the Sun\'s mass consists of hydrogen (~73%); the rest is mostly helium (~25%), with much smaller quantities of heavier elements, including oxygen, carbon, neon, and iron.&#91;19&#93;\n
+
+https://en.wikipedia.org/wiki/False_color: 
+false color: 
+False color (or pseudo color) refers to a group of color rendering methods used to display images in color which were recorded in the visible or non-visible parts of the electromagnetic spectrum. A false-color image is an image that depicts an object in colors that differ from those a photograph (a true-color image) would show.\n
+
+https://en.wikipedia.org/wiki/Star: 
+star: 
+A star is an astronomical object consisting of a luminous spheroid of plasma held together by its own gravity. The nearest star to Earth is the Sun. Many other stars are visible to the naked eye from Earth during the night, appearing as a multitude of fixed luminous points in the sky due to their immense distance from Earth. Historically, the most prominent stars were grouped into constellations and asterisms, the brightest of which gained proper names. Astronomers have assembled star catalogues that identify the known stars and provide standardized stellar designations. The observable Universe contains an estimated 1\xc3\x971024 stars,&#91;1&#93;&#91;2&#93; but most are invisible to the naked eye from Earth, including all stars outside our galaxy, the Milky Way.\n
+
+https://en.wikipedia.org/wiki/Solar_System: 
+solar system: 
+The Solar System&#91;a&#93; is the gravitationally bound system of the Sun and the objects that orbit it, either directly or indirectly.&#91;b&#93; Of the objects that orbit the Sun directly, the largest are the eight planets,&#91;c&#93; with the remainder being smaller objects, the dwarf planets and small Solar System bodies. Of the objects that orbit the Sun indirectly\xe2\x80\x94the moons\xe2\x80\x94two are larger than the smallest planet, Mercury.&#91;d&#93;\n
+
+https://en.wikipedia.org: 
+main page: 
+Super Science Stories was an American pulp science fiction magazine published by Popular Publications. Frederik Pohl (pictured) did most of the editing from 1940 to 1943, and the title was revived from 1949 to 1951 with Ejler Jakobsson as editor. Popular gave Pohl a very low budget, and he wrote many of the stories himself. Most of the submitted manuscripts had already been rejected by other magazines, but he was able to acquire stories for the early issues from the Futurians, a group of young science fiction fans and aspiring writers. Super Science Stories was an initial success, and Pohl managed to obtain stories by writers who later became well known, such as Isaac Asimov and Robert Heinlein. When Jakobsson took over, he ran many reprinted stories. Although the magazine was never regarded as one of the leading titles of the genre, science fiction historian Raymond Thompson describes it as "one of the most interesting magazines to appear during the 1940s". (Full&#160;article...)\n
+
+https://en.wikipedia.org/wiki/Convection: 
+convection: 
+Convection is the heat transfer due to the bulk movement of molecules within fluids such as gases and liquids, including molten rock (rheid). Convection includes sub-mechanisms of advection (directional bulk-flow transfer of heat), and diffusion (non-directional transfer of energy or mass particles along a concentration gradient).\n
+
+https://en.wikipedia.org/wiki/Magnetic_field: 
+magnetic field: 
+A magnetic field is a vector field that describes the magnetic influence of electric charges in relative motion&#91;1&#93;&#91;2&#93; and magnetized materials.  The effects of magnetic fields are commonly seen in permanent magnets, which pull on magnetic materials (such as iron) and attract or repel other magnets. Magnetic fields surround and are created by magnetized material and by moving electric charges (electric currents) such as those used in electromagnets.  They exert forces on nearby moving electrical charges and torques on nearby magnets. In addition, a magnetic field that varies with location exerts a force on magnetic materials. Both the strength and direction of a magnetic field vary with location.  As such, it is described mathematically as a vector field.\n
+
+https://en.wikipedia.org/wiki/heat: 
+heat: 
+In thermodynamics, heat is energy in transfer to or from a thermodynamic system, by mechanisms other than thermodynamic work or transfer of matter.&#91;1&#93;&#91;2&#93;&#91;3&#93;&#91;4&#93;&#91;5&#93;&#91;6&#93;&#91;7&#93; The mechanisms include conduction, through direct contact of immobile bodies, or through a wall or barrier that is impermeable to matter; or radiation between separated bodies; or isochoric mechanical work done by the surroundings on the system of interest; or Joule heating by an electric current driven through the system of interest by an external system; or a combination of these. When there is a suitable path between two systems with different temperatures, heat transfer occurs necessarily, immediately, and spontaneously from the hotter to the colder system. Thermal conduction occurs by the stochastic (random) motion of microscopic particles (such as atoms or molecules). In contrast, thermodynamic work is defined by mechanisms that act macroscopically and directly on the system\'s whole-body state variables; for example, change of the system\'s volume through a piston\'s motion with externally measurable force; or change of the system\'s internal electric polarization through an externally measurable change in electric field. The definition of heat transfer does not require that the process be in any sense smooth. For example, a bolt of lightning may transfer heat to a body.\n
+
+https://en.wikipedia.org/wiki/Thermodynamics: 
+thermodynamics: 
+Thermodynamics is the branch of physics that deals with heat and temperature, and their relation to energy, work, radiation, and properties of matter. The behavior of these quantities is governed by the four laws of thermodynamics which convey a quantitative description using measurable macroscopic physical quantities, but may be explained in terms of microscopic constituents by statistical mechanics. Thermodynamics applies to a wide variety of topics in science and engineering, especially physical chemistry, chemical engineering and mechanical engineering, but also in fields as complex as meteorology.\n
+
+https://en.wikipedia.org/wiki/Mass_transfer: 
+mass transfer: 
+Mass transfer is the net movement of mass from one location, usually meaning  stream, phase, fraction or component, to another. Mass transfer occurs in many processes, such as absorption, evaporation, drying, precipitation, membrane filtration, and distillation. Mass transfer is used by different scientific disciplines for different processes and mechanisms. The phrase is commonly used in engineering for physical processes that involve diffusive and convective transport of chemical species within physical systems.\n
+
+https://en.wikipedia.org: 
+main page: 
+Super Science Stories was an American pulp science fiction magazine published by Popular Publications. Frederik Pohl (pictured) did most of the editing from 1940 to 1943, and the title was revived from 1949 to 1951 with Ejler Jakobsson as editor. Popular gave Pohl a very low budget, and he wrote many of the stories himself. Most of the submitted manuscripts had already been rejected by other magazines, but he was able to acquire stories for the early issues from the Futurians, a group of young science fiction fans and aspiring writers. Super Science Stories was an initial success, and Pohl managed to obtain stories by writers who later became well known, such as Isaac Asimov and Robert Heinlein. When Jakobsson took over, he ran many reprinted stories. Although the magazine was never regarded as one of the leading titles of the genre, science fiction historian Raymond Thompson describes it as "one of the most interesting magazines to appear during the 1940s". (Full&#160;article...)\n
+
+https://en.wikipedia.org/wiki/air: 
+atmosphere of earth: 
+The atmosphere of Earth is the layer of gases, commonly known as air, that surrounds the planet Earth and is retained by Earth\'s gravity. The atmosphere of Earth protects life on Earth by creating pressure allowing for liquid water to exist on the Earth\'s surface, absorbing ultraviolet solar radiation, warming the surface through heat retention (greenhouse effect), and reducing temperature extremes between day and night (the diurnal temperature variation).\n
+
+https://en.wikipedia.org/wiki/Gas: 
+gas: 
+Gas is one of the four fundamental states of matter (the others being solid, liquid, and plasma). A pure gas may be made up of individual atoms (e.g. a noble gas like neon), elemental molecules made from one type of atom (e.g. oxygen), or compound molecules made from a variety of atoms (e.g. carbon dioxide). A gas mixture, such as air, contains a variety of pure gases. What distinguishes a gas from liquids and solids is the vast separation of the individual gas particles. This separation usually makes a colorless gas invisible to the human observer. The interaction of gas particles in the presence of  electric and  gravitational fields are considered&#91;by whom?&#93; negligible, as indicated by the constant velocity vectors in the image.\n
+
+https://en.wikipedia.org/wiki/Earth: 
+earth: 
+Earth is the third planet from the Sun and the only astronomical object known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4.5 billion years ago. Earth\'s gravity interacts with other objects in space, especially the Sun and the Moon, which is Earth\'s only natural satellite. Earth orbits around the Sun in 365.265 days, a period known as an Earth sidereal year. During this time, Earth rotates about its axis about 366.265 times.&#91;n 6&#93;\n
+
+https://en.wikipedia.org/wiki/Life: 
+life: 
+Life on Earth:\n
+
+https://en.wikipedia.org/wiki/Atmospheric_pressure: 
+atmospheric pressure: 
+Atmospheric pressure, sometimes also called barometric pressure (after the sensor), is the pressure within the atmosphere of Earth. The standard atmosphere (symbol: atm) is a unit of pressure defined as 101,325&#160;Pa (1,013.25&#160;hPa; 1,013.25&#160;mbar), equivalent to 760&#160;mm Hg, 29.9212&#160;inches&#160;Hg, or 14.696&#160;psi.&#91;1&#93; The atm unit is roughly equivalent to the mean sea-level atmospheric pressure on Earth, that is, the Earth\'s atmospheric pressure at sea level is approximately 1 atm.\n
+
+https://en.wikipedia.org/wiki/Liquid_water: 
+water: 
+Water is an inorganic, transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth\'s hydrosphere, and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients. Its chemical formula is H2O, meaning that each of its molecules contains one oxygen and two hydrogen atoms, connected by covalent bonds. Water is the name of the liquid state of H2O at standard ambient temperature and pressure. It forms precipitation in the form of rain and aerosols in the form of fog. Clouds are formed from suspended droplets of water and ice, its solid state. When finely divided, crystalline ice may precipitate in the form of snow. The gaseous state of water is steam or water vapor. Water moves continually through the water cycle of evaporation, transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea.\n
+
+https://en.wikipedia.org/wiki/Planetary_surface: 
+planetary surface: 
+A planetary surface is where the solid (or liquid) material of the outer crust on certain types of astronomical objects contacts the atmosphere or outer space. Planetary surfaces are found on solid objects of planetary mass, including terrestrial planets (including Earth), dwarf planets, natural satellites, planetesimals and many other small Solar System bodies (SSSBs).&#91;1&#93;&#91;2&#93;&#91;3&#93; The study of planetary surfaces is a field of planetary geology known as surface geology, but also a focus of a number of fields including planetary cartography, topography, geomorphology, atmospheric sciences, and astronomy. Land (or ground) is the term given to non-liquid planetary surfaces. The term landing is used to describe the collision of an object with a planetary surface and is usually at a velocity in which the object can remain intact and remain attached.\n
+
+https://en.wikipedia.org/wiki/Ultraviolet: 
+ultraviolet: 
+Ultraviolet  (UV) is electromagnetic radiation with wavelength from 10&#160;nm  to 400&#160;nm, shorter than that of visible light but longer than X-rays. UV radiation is present in sunlight, and contributes about 10% of the total electromagnetic radiation output from the Sun. It is also produced by electric arcs and specialized lights, such as mercury-vapor lamps, tanning lamps, and black lights. Although long-wavelength ultraviolet is not considered an ionizing radiation because its photons lack the energy to ionize atoms, it can cause chemical reactions and causes many substances to glow or fluoresce. Consequently, the chemical and biological effects of UV are greater than simple heating effects, and many practical applications of UV radiation derive from its interactions with organic molecules.\n
+
+https://en.wikipedia.org/wiki/Solar_radiation: 
+solar irradiance: 
+Solar irradiance is the power per unit area (watt per square metre, W/m2), received from the Sun in the form of electromagnetic radiation as reported in the wavelength range of the measuring instrument. \nSolar irradiance is often integrated over a given time period in order to report the radiant energy emitted into the surrounding environment (joule per square metre, J/m2), during that time period. This integrated solar irradiance is called solar irradiation, solar exposure, solar insolation, or insolation.\n
+
+https://en.wikipedia.org/wiki/fire: 
+fire: 
+Fire is the rapid oxidation of a material in the exothermic chemical process of combustion, releasing heat, light, and various reaction products.&#91;1&#93;  Slower oxidative processes like rusting or digestion are not included by this definition.\n
+
+https://en.wikipedia.org/wiki/Oxidation: 
+redox: 
+Redox (reduction\xe2\x80\x93oxidation, pronunciation: /\xcb\x88r\xc9\x9bd\xc9\x92ks/ redoks or /\xcb\x88ri\xcb\x90d\xc9\x92ks/ reedoks&#91;1&#93;) is a type of chemical reaction in which the oxidation states of atoms are changed. Redox reactions are characterized by the transfer of electrons between chemical species, most often with one species (the reducing agent) undergoing oxidation (losing electrons) while another species (the oxidizing agent) undergoes reduction (gains electrons).&#91;2&#93; The chemical species from which the electron is stripped is said to have been oxidized, while the chemical species to which the electron is added is said to have been reduced. In other words:\n
+
+https://en.wikipedia.org/wiki/Exothermic: 
+exothermic process: 
+In thermodynamics, the term exothermic process (exo-&#160;: "outside") describes a process or reaction that releases energy from the system to its surroundings, usually in the form of heat, but also in a form of light (e.g. a spark, flame, or flash), electricity (e.g. a battery), or sound (e.g. explosion heard when burning hydrogen). Its etymology stems from the Greek prefix \xce\xad\xce\xbe\xcf\x89 (ex\xc5\x8d, which means "outwards") and the Greek word \xce\xb8\xce\xb5\xcf\x81\xce\xbc\xce\xb9\xce\xba\xcf\x8c\xcf\x82 (thermik\xcf\x8cs, which means "thermal").&#91;1&#93; The term exothermic was first coined by Marcellin Berthelot. The opposite of an exothermic process is an endothermic process, one that absorbs energy in the form of heat.\n
+
+https://en.wikipedia.org/wiki/Combustion: 
+combustion: 
+Combustion, or burning,&#91;1&#93; is a high-temperature exothermic redox chemical reaction between a fuel (the reductant) and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. Combustion in a fire produces a flame, and the heat produced can make combustion self-sustaining. Combustion is often a complicated sequence of elementary radical reactions. Solid fuels, such as wood and coal, first undergo endothermic pyrolysis to produce gaseous fuels whose combustion then supplies the heat required to produce more of them. Combustion is often hot enough that incandescent light in the form of either glowing or a flame is produced. A simple example can be seen in the combustion of hydrogen and oxygen into water vapor, a reaction commonly used to fuel rocket engines. This reaction releases 242&#160;kJ/mol of heat and reduces the enthalpy accordingly (at constant temperature and pressure):\n
+
+https://en.wikipedia.org/wiki/Product_(chemistry): 
+product (chemistry): 
+Products are the species formed from chemical reactions.&#91;1&#93; During a chemical reaction reactants are transformed into products after passing through a high energy transition state. This process results in the consumption of the reactants.  It can be a spontaneous reaction or mediated by catalysts which lower the energy of the transition state, and by solvents which provide the chemical environment necessary for the reaction to take place. When represented in chemical equations products are by convention drawn on the right-hand side, even in the case of reversible reactions.&#91;2&#93; The properties of products such as their energies help determine several characteristics of a chemical reaction such as whether the reaction is exergonic or endergonic. Additionally the properties of a product can make it easier to extract and purify following a chemical reaction, especially if the product has a different state of matter than the reactants. Reactants are molecular materials used to create chemical reactions. The atoms aren\'t created or destroyed. The materials are reactive and reactants are rearranging during a chemical reaction. Here is an example of reactants: CH4 + O2. A non-example is CO2 + H2O or "energy".\n
+
+https://en.wikipedia.org/wiki/Rusting: 
+rust: 
+Rust is an iron oxide, a usually red oxide formed by the redox reaction of iron and oxygen in the presence of water or air moisture. Several forms of rust are distinguishable both visually and by spectroscopy, and form under different circumstances.&#91;1&#93; Rust consists of hydrated iron(III) oxides Fe2O3\xc2\xb7nH2O and iron(III) oxide-hydroxide (FeO(OH), Fe(OH)3).\n
+
+https://en.wikipedia.org/wiki/Digestion: 
+digestion: 
+Digestion is the breakdown of large insoluble food molecules into small water-soluble food molecules so that they can be absorbed into the watery blood plasma. In certain organisms, these smaller substances are absorbed through the small intestine into the blood stream. Digestion is a form of catabolism that is often divided into two processes based on how food is broken down: mechanical and chemical digestion. The term mechanical digestion refers to the physical breakdown of large pieces of food into smaller pieces which can subsequently be accessed by digestive enzymes. In chemical digestion, enzymes break down food into the small molecules the body can use.\n
+
+https://en.wikipedia.org/wiki/Help:IPA/English: 
+help:ipa/english: 
+Throughout Wikipedia, the pronunciation of words is indicated by means of the International Phonetic Alphabet (IPA). The following tables list the IPA symbols used for English words and pronunciations. Please note that several of these symbols are used in ways that are specific to Wikipedia and differ from those used by dictionaries.\n
+
+https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key: 
+help:pronunciation respelling key: 
+The following pronunciation respelling key is used in some Wikipedia articles to respell the pronunciations of English words. It does not use special symbols or diacritics apart from the schwa (\xc9\x99), which is used for the first sound in the word "about".\n
+
+https://en.wikipedia.org/wiki/knife: 
+knife: 
+A knife (plural knives; possibly from Old Norse  knifr ("blade")&#91;1&#93;) is a tool with a cutting edge or blade attached to a handle.  Mankind\'s first tool, knives were used at least two-and-a-half million years ago, as evidenced by the Oldowan tools.&#91;2&#93;&#91;3&#93;  Originally made of rock, bone, flint, and obsidian, over the centuries, in step with improvements in metallurgy or manufacture, knife blades have been made from bronze, copper, iron, steel, ceramics, and titanium.   Most modern knives have either fixed or folding blades; blade patterns and styles vary by maker and country of origin.\n
+
+https://en.wikipedia.org/wiki/Old_Norse: 
+old norse: 
+Old Norse was a North Germanic language that was spoken by inhabitants of Scandinavia and their overseas settlements from about the 9th to the 13th centuries.\n
+
+https://en.wikipedia.org: 
+main page: 
+Super Science Stories was an American pulp science fiction magazine published by Popular Publications. Frederik Pohl (pictured) did most of the editing from 1940 to 1943, and the title was revived from 1949 to 1951 with Ejler Jakobsson as editor. Popular gave Pohl a very low budget, and he wrote many of the stories himself. Most of the submitted manuscripts had already been rejected by other magazines, but he was able to acquire stories for the early issues from the Futurians, a group of young science fiction fans and aspiring writers. Super Science Stories was an initial success, and Pohl managed to obtain stories by writers who later became well known, such as Isaac Asimov and Robert Heinlein. When Jakobsson took over, he ran many reprinted stories. Although the magazine was never regarded as one of the leading titles of the genre, science fiction historian Raymond Thompson describes it as "one of the most interesting magazines to appear during the 1940s". (Full&#160;article...)\n
+
+https://en.wikipedia.org/wiki/Blade: 
+blade: 
+A blade is the portion of a tool, weapon, or machine with an edge that is designed to puncture, chop, slice or scrape surfaces or materials. Blades are typically made from materials that are harder than those they are to be used on. Historically, humans have made blades from flaking stones such as flint or obsidian, and from various metal such as copper, bronze and iron. Modern blades are often made of steel or ceramic. Blades are one of humanity\'s oldest tools, and continue to be used for combat, food preparation, and other purposes.\n
+
+https://en.wikipedia.org/wiki/Stone_Age: 
+stone age: 
+Paleolithic\n
+
+https://en.wikipedia.org/wiki/Oldowan: 
+oldowan: 
+The Oldowan (or Mode I) was a widespread stone tool archaeological industry (style) in prehistory.  These early tools were simple, usually made with one or a few flakes chipped off with another stone.  Oldowan tools were used during the Lower Paleolithic period, 2.6 million years ago up until 1.7 million years ago, by ancient Hominin (early humans) across much of Africa, South Asia, the Middle East and Europe. This technological industry was followed by the more sophisticated Acheulean industry.\n
+
+https://en.wikipedia.org/wiki/Titanium: 
+titanium: 
+Titanium is a chemical element with the symbol Ti and atomic number 22. It is a lustrous transition metal with a silver color, low density, and high strength. Titanium is resistant to corrosion in sea water, aqua regia, and chlorine.\n
+
+https://en.wikipedia.org/wiki/kite: 
+kite: 
+A kite is a tethered heavier-than-air craft with wing surfaces that react against the air to create lift and drag. A kite consists of wings, tethers and anchors. Kites often have a bridle and tail to guide the face of the kite so the wind can lift it.&#91;2&#93; Some kite designs don\xe2\x80\x99t need a bridle; box kites can have a single attachment point. A kite may have fixed or moving anchors that can balance the kite. One technical definition is that a kite is \xe2\x80\x9ca collection of tether-coupled wing sets\xe2\x80\x9c.&#91;3&#93; The name derives from its resemblance to a hovering bird.&#91;4&#93;\n
+
+https://en.wikipedia.org/wiki/Tether: 
+tether: 
+A tether is a cord, fixture, or flexible attachment that anchors something movable to a reference point which may be fixed or moving. There are a number of applications for tethers: balloons, kites, tethered wind-energy conversion systems, anchors, tethered water-flow energy conversion systems, towing, animal constraint, spaceflight, and power-kiting. Tethering is also used to prevent the theft of a computer at a school or library.&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Heavier_than_air_flight: 
+aircraft: 
+An aircraft is a vehicle that is able to fly by gaining support from the air. It counters the force of gravity by using either static lift or by using the dynamic lift of an airfoil,&#91;1&#93; or in a few cases the downward thrust from jet engines. Common examples of aircraft include airplanes, helicopters, airships (including blimps), gliders, paramotors and hot air balloons.&#91;2&#93;\n
+
+https://en.wikipedia.org/wiki/Wing: 
+wing: 
+A wing is a type of fin that produces lift, while moving through air or some other fluid. As such, wings have streamlined cross-sections that are subject to aerodynamic forces and act as airfoils. A wing\'s aerodynamic efficiency is expressed as its lift-to-drag ratio. The lift a wing generates at a given speed and angle of attack can be one to two orders of magnitude greater than the total drag on the wing. A high lift-to-drag ratio requires a significantly smaller thrust to propel the wings through the air at sufficient lift.\n
+
+https://en.wikipedia.org: 
+main page: 
+Super Science Stories was an American pulp science fiction magazine published by Popular Publications. Frederik Pohl (pictured) did most of the editing from 1940 to 1943, and the title was revived from 1949 to 1951 with Ejler Jakobsson as editor. Popular gave Pohl a very low budget, and he wrote many of the stories himself. Most of the submitted manuscripts had already been rejected by other magazines, but he was able to acquire stories for the early issues from the Futurians, a group of young science fiction fans and aspiring writers. Super Science Stories was an initial success, and Pohl managed to obtain stories by writers who later became well known, such as Isaac Asimov and Robert Heinlein. When Jakobsson took over, he ran many reprinted stories. Although the magazine was never regarded as one of the leading titles of the genre, science fiction historian Raymond Thompson describes it as "one of the most interesting magazines to appear during the 1940s". (Full&#160;article...)\n
+
+https://en.wikipedia.org/wiki/Box_kite: 
+box kite: 
+A box kite is a high performance kite, noted for developing relatively high lift; it is a type within the family of cellular kites. The typical design has four parallel struts. The box is made rigid with diagonal crossed struts. There are two sails, or ribbons, whose width is about a quarter of the length of the box. The ribbons wrap around the ends of the box, leaving the ends and middle of the kite open. In flight, one strut is the bottom, and the bridle is tied between the top and bottom of this strut. The dihedrals of the sails help stability.\n
+
+https://en.wikipedia.org/wiki/Kite_(bird): 
+kite (bird): 
+Kite is the common name for certain birds of prey in the family Accipitridae, particularly in subfamilies Milvinae, Elaninae, and Perninae.&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/book: 
+book: 
+A book is a medium for recording information in the form of writing and images, typically composed of pages that are bound together and protected by a cover.&#91;1&#93; The technical term for this physical arrangement is codex. A single sheet in a codex is a leaf, and each side of a leaf is a page. In the history of hand-held physical supports for extended written compositions or records, the scroll dominated the written world prior to the codex. \n
+
+https://en.wikipedia.org/wiki/Information: 
+information: 
+Information can be thought of as the resolution of uncertainty; it is that which answers the question of "what an entity is" and thus defines both its essence and nature of its characteristics. It is associated with data, as data represents values attributed to parameters, and information is data in context and with meaning attached&#91;1&#93;. Information relates also to knowledge, as knowledge signifies understanding of an abstract or concrete concept.&#91;2&#93; \n
+
+https://en.wikipedia.org/wiki/Writing: 
+writing: 
+Writing is a medium of human communication that represents language with signs and symbols. For languages that utilize a writing system, inscriptions can complement spoken language by creating a durable version of speech that can be stored for future reference or transmitted across distance. Writing, in other words, is not a language, but a tool used to make languages readable.&#91;1&#93; Within a language system, writing relies on many of the same structures as speech, such as vocabulary, grammar, and semantics, with the added dependency of a system of signs or symbols. The result of the activity of writing is called a text, and the interpreter or activator of this text is called a reader.&#91;2&#93;\n
+
+https://en.wikipedia.org/wiki/Image: 
+image: 
+An image (from Latin: imago) is an artifact that depicts visual perception, such as a photograph or other two-dimensional picture, that resembles a subject\xe2\x80\x94usually a physical object\xe2\x80\x94and thus provides a depiction of it. In the context of signal processing, an image is a distributed amplitude of color(s).&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Bookbinding: 
+bookbinding: 
+Bookbinding is the process of physically assembling a book of codex format from an ordered stack of paper sheets that are folded together into sections or sometimes left as a stack of individual sheets. The stack is then bound together along one edge by either sewing with thread through the folds or by a layer of flexible adhesive. Alternative methods of binding that are cheaper but less permanent include loose-leaf rings, individual screw posts or binding posts, twin loop spine coils, plastic spiral coils, and plastic spine combs. For protection, the bound stack is either wrapped in a flexible cover or attached to stiff boards. Finally, an attractive cover is adhered to the boards, including identifying information and  decoration. Book artists or specialists in book decoration can also greatly enhance a book\'s content by creating book-like objects with artistic merit of exceptional quality.\n
+
+https://en.wikipedia.org/wiki/Book_cover: 
+book cover: 
+A book cover is any protective covering used to bind together the pages of a book. Beyond the familiar distinction between hardcovers and paperbacks, there are further alternatives and additions, such as dust jackets, ring-binding, and older forms such as the nineteenth-century "paper-boards" and the traditional types of hand-binding. The term "Bookcover" is often used for a book cover image in library management software. This article is concerned with modern mechanically produced covers.\n
+
+https://en.wikipedia.org/wiki/Recto: 
+recto and verso: 
+Recto and verso are respectively, the text written or printed on the "right" or "front" side and on the "back" side of a leaf of paper in a bound item such as a codex, book, broadsheet, or pamphlet. \n
+
+https://en.wikipedia.org/wiki/Page_(paper): 
+page (paper): 
+A page is one side of a leaf (or sheet) of paper, parchment or other material (or electronic media) in a book, magazine, newspaper, or other collection of sheets, on which text or illustrations can be printed, written or drawn, to create documents. It can be used as a measure of communicating general quantity of information ("That topic covers twelve pages") or more specific quantity ("there are 535 words in a standard page in twelve point font type")&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/Scroll: 
+scroll: 
+A scroll (from the Old French escroe or escroue), also known as a roll, is a roll of papyrus, parchment, or paper containing writing.&#91;1&#93;\n
+
+https://en.wikipedia.org/wiki/drawing: 
+drawing: 
+Drawing is a form of visual art in which a person uses various drawing instruments to mark paper or another two-dimensional medium. Instruments include graphite pencils, pen and ink, various kinds of paints, inked brushes, colored pencils, crayons, charcoal, chalk, pastels, various kinds of erasers, markers, styluses, and various metals (such as silverpoint). Digital drawing is the act of using a computer to draw. Common methods of digital drawing include a stylus or finger on a touchscreen device, stylus- or finger-to-touchpad, or in some cases, a mouse. There are many digital art programs and devices.\n
+
+https://en.wikipedia.org/wiki/Visual_art: 
+visual arts: 
+The visual arts are art forms such as painting, drawing, printmaking, sculpture, ceramics, photography, video, filmmaking, design, crafts, and architecture. Many artistic disciplines such as performing arts, conceptual art, textile arts also involve aspects of visual arts as well as arts of other types. Also included within the visual arts&#91;1&#93; are the applied arts&#91;2&#93; such as industrial design, graphic design, fashion design, interior design and decorative art.&#91;3&#93;\n
+
+https://en.wikipedia.org/wiki/Paper: 
+paper: 
+Paper is a thin material produced by pressing together moist fibres of cellulose pulp derived from wood, rags or grasses, and drying them into flexible sheets.\nIt is a versatile material with many uses, including writing, printing, packaging, cleaning, decorating, and a number of industrial and construction processes. Papers are essential in legal or non-legal documentation.\n
+
+https://en.wikipedia.org/wiki/Two-dimensional: 
+two-dimensional space: 
+Two-dimensional space (also known as bi-dimensional space) is a geometric setting in which two values (called parameters) are required to determine the position of an element (i.e., point). The set \xe2\x84\x9d2 of pairs of real numbers with appropriate structure often serves as the canonical example of a two-dimensional Euclidean space. For a generalization of the concept, see dimension.\n
+
+https://en.wikipedia.org/wiki/Graphite: 
+graphite: 
+Graphite (/\xcb\x88\xc9\xa1r\xc3\xa6fa\xc9\xaat/), archaically referred to as plumbago, is a crystalline form of the element carbon with its atoms arranged in a hexagonal structure. It occurs naturally in this form and is the most stable form of carbon under standard conditions. Under high pressures and temperatures it converts to diamond. Graphite is used in pencils and lubricants. It is a good conductor of heat and electricity. Its high conductivity makes it useful in electronic products such as electrodes, batteries, and solar panels. \n
+
+https://en.wikipedia.org/wiki/Pen_and_ink: 
+pen: 
+A pen is a writing instrument used to apply ink to a surface, usually paper, for writing or drawing.&#91;1&#93; Historically, reed pens, quill pens, and dip pens were used, with a nib dipped in ink. Ruling pens allow precise adjustment of line width, and still find a few specialized uses, but technical pens such as the Rapidograph are more commonly used. Modern types include ballpoint, rollerball, fountain and felt or ceramic tip pens.&#91;2&#93;\n
+
+https://en.wikipedia.org/wiki/Paint: 
+paint: 
+Paint is any pigmented liquid, liquefiable, or mastic composition that, after application to a substrate in a thin layer, converts to a solid film. It is most commonly used to protect, color, or provide texture to objects. Paint can be made or purchased in many colors\xe2\x80\x94and in many different types, such as watercolor or synthetic. Paint is typically stored, sold, and applied as a liquid, but most types dry into a solid.\n
+
+https://en.wikipedia.org/wiki/Brush: 
+brush: 
+A brush is a common tool with bristles, wire or other filaments. It generally consists of a handle or block to which filaments are affixed in either a parallel or perpendicular orientation, depending on the way the brush is to be gripped during use. The material of both the block and bristles or filaments is chosen to withstand hazards of its intended use, such as corrosive chemicals, heat or abrasion. It is used for cleaning, grooming hair, make up,   painting,  surface finishing and for many other purposes.   It is one of the most basic and versatile tools in use today, and the average household may contain several dozen varieties.\n
+
+https://en.wikipedia.org/wiki/Colored_pencil: 
+colored pencil: 
+A colored pencil (American English), coloured pencil (Commonwealth English),&#91;1&#93; pencil crayon, lead or coloured/colouring lead (Canadian English, Newfoundland English) is an art medium constructed of a narrow, pigmented core encased in a wooden cylindrical case. Unlike graphite and charcoal pencils, colored pencils\' cores are wax- or oil-based and contain varying proportions of pigments, additives, and binding agents.&#91;2&#93; Water-soluble (watercolor) pencils and pastel pencils are also manufactured as well as colored leads for mechanical pencils.\n
+
+https://en.wikipedia.org/wiki/snake: 
+snake: 
+Snakes are elongated, legless, carnivorous reptiles of the suborder Serpentes.&#91;2&#93; Like all other squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales. Many species of snakes have skulls with several more joints than their lizard ancestors, enabling them to swallow prey much larger than their heads with their highly mobile jaws. To accommodate their narrow bodies, snakes\' paired organs (such as kidneys) appear one in front of the other instead of side by side, and most have only one functional lung. Some species retain a pelvic girdle with a pair of vestigial claws on either side of the cloaca. Lizards have evolved elongate bodies without limbs or with greatly reduced limbs about twenty-five times independently via convergent evolution, leading to many lineages of legless lizards.&#91;3&#93;  Legless lizards resemble snakes, but several common groups of legless lizards have eyelids and external ears, which snakes lack, although this rule is not universal (see Amphisbaenia, Dibamidae, and Pygopodidae).\n
+
+https://en.wikipedia.org/wiki/Carnivore: 
+carnivore: 
+A carnivore /\xcb\x88k\xc9\x91\xcb\x90rn\xc9\xaav\xc9\x94\xcb\x90r/, meaning "meat eater" (Latin, caro, genitive carnis, meaning "meat" or "flesh" and vorare meaning "to devour"), is an organism that derives its energy and nutrient requirements from a diet consisting mainly or exclusively of animal tissue, whether through predation or scavenging.&#91;1&#93;&#91;2&#93; Animals that depend solely on animal flesh for their nutrient requirements are called obligate carnivores while those that also consume non-animal food are called facultative carnivores.&#91;2&#93; Omnivores also consume both animal and non-animal food, and, apart from the more general definition, there is no clearly defined ratio of plant to animal material that would distinguish a facultative carnivore from an omnivore.&#91;3&#93; A carnivore at the top of the food chain, not preyed upon by other animals, is termed an apex predator.\n
+
+https://en.wikipedia.org/wiki/Reptile: 
+reptile: 
+See text for extinct groups.\n
+
+https://en.wikipedia.org/wiki/Suborder: 
+order (biology): 
+In biological classification, the order (Latin: ordo) is\n
+
+https://en.wikipedia.org: 
+main page: 
+Super Science Stories was an American pulp science fiction magazine published by Popular Publications. Frederik Pohl (pictured) did most of the editing from 1940 to 1943, and the title was revived from 1949 to 1951 with Ejler Jakobsson as editor. Popular gave Pohl a very low budget, and he wrote many of the stories himself. Most of the submitted manuscripts had already been rejected by other magazines, but he was able to acquire stories for the early issues from the Futurians, a group of young science fiction fans and aspiring writers. Super Science Stories was an initial success, and Pohl managed to obtain stories by writers who later became well known, such as Isaac Asimov and Robert Heinlein. When Jakobsson took over, he ran many reprinted stories. Although the magazine was never regarded as one of the leading titles of the genre, science fiction historian Raymond Thompson describes it as "one of the most interesting magazines to appear during the 1940s". (Full&#160;article...)\n
+
+https://en.wikipedia.org/wiki/Squamata: 
+squamata: 
+Squamata is the largest order of reptiles, comprising lizards, snakes and amphisbaenians (worm lizards), which are collectively known as squamates or scaled reptiles. With over 10,000 species,&#91;3&#93; it is also the second-largest order of extant (living) vertebrates, after the perciform fish, and roughly equal in number to the Saurischia (one of the two major groups of dinosaurs). Members of the order are distinguished by their skins, which bear horny scales or shields. They also possess movable quadrate bones, making it possible to move the upper jaw relative to the neurocranium. This is particularly visible in snakes, which are able to open their mouths very wide to accommodate comparatively large prey. Squamata is the most variably sized order of reptiles, ranging from the 16&#160;mm (0.63&#160;in) dwarf gecko (Sphaerodactylus ariasae) to the 5.21&#160;m (17.1&#160;ft) green anaconda (Eunectes murinus) and the now-extinct mosasaurs, which reached lengths of over 14&#160;m (46&#160;ft).\n
+
+https://en.wikipedia.org/wiki/Ectothermic: 
+ectotherm: 
+An ectotherm (from the Greek \xe1\xbc\x90\xce\xba\xcf\x84\xcf\x8c\xcf\x82 (ekt\xc3\xb3s) "outside" and \xce\xb8\xce\xb5\xcf\x81\xce\xbc\xcf\x8c\xcf\x82 (therm\xc3\xb3s) "hot"), is an organism in which internal physiological sources of heat are of relatively small or quite negligible importance in controlling body temperature.&#91;1&#93; Such organisms (for example frogs) rely on environmental heat sources,&#91;2&#93; which permit them to operate at very economical metabolic rates.&#91;3&#93; Some of these animals live in environments where temperatures are practically constant, as is typical of regions of the abyssal ocean and hence can be regarded as homeothermic ectotherms. In contrast, in places where temperature varies so widely as to limit the physiological activities of other kinds of ectotherms, many species habitually seek out external sources of heat or shelter from heat; for example, many reptiles regulate their body temperature by basking in the sun, or seeking shade when necessary in addition to a whole host of other behavioral thermoregulation mechanisms.\nFor home captivity of pet reptiles, owners can use a UVB/UVA light system to assist the animals\' basking behaviour.&#91;4&#93;\n
+
+https://en.wikipedia.org/wiki/Amniote: 
+amniote: 
+Amniotes (from Greek \xe1\xbc\x80\xce\xbc\xce\xbd\xce\xaf\xce\xbf\xce\xbd amnion, "membrane surrounding the fetus", earlier "bowl in which the blood of sacrificed animals was caught", from  \xe1\xbc\x80\xce\xbc\xce\xbd\xcf\x8c\xcf\x82 amnos, "lamb"&#91;3&#93;) are a clade of tetrapod vertebrates comprising the reptiles, birds, and mammals. Amniotes lay their eggs on land or retain the fertilized egg within the mother, and are distinguished from the anamniotes (fishes and amphibians), which typically lay their eggs in water. Older sources, particularly prior to the 20th century, may refer to amniotes as "higher vertebrates" and anamniotes as "lower vertebrates", based on the discredited idea of the evolutionary great chain of being.\n
+
+https://en.wikipedia.org/wiki/Skull: 
+skull: 
+The skull is a bony structure that forms the head in vertebrates. It supports the structures of the face and provides a protective cavity for the brain.&#91;1&#93; The skull is composed of two parts: the cranium and the mandible. In humans, these two parts are the neurocranium and the viscerocranium or facial skeleton that includes the mandible as its largest bone. The skull forms the anterior most portion of the skeleton and is a product of cephalisation\xe2\x80\x94housing the brain, and several sensory structures such as the eyes, ears, nose, and mouth.&#91;2&#93; In humans these sensory structures are part of the facial skeleton.\n
+

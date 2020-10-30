@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Info box</title>
+    <style>
+    .main {
+        border: 1px solid #dddada;
+        margin-left: 834px;
+        width: 422px;
+    }
+
+    .content {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .formation {
+        font-family: Arial, sans-serif;
+    }
+    .formation .first{
+        color: #7e7e7e;
+    }
+    .formation .company{
+        line-height: 1px;
+        margin-top: -10px;
+        color: #6e6e6e;
+    }
+    .formation hr{
+        border: 0.5px solid #dddada;
+    }
+    .formation .url {
+        margin: -1px auto;
+    }
+    .formation .url a{
+        text-decoration: none;
+    }
+    .formation .wikicontent {
+        font-size: 15px;
+    }
+    .formation .wikicontent a {
+        text-decoration: none;
+    }
+    .formation .list{
+        list-style: none;
+        margin-left: -40px;
+    }
+    .hi-slide{
+        position: relative;
+        width: auto;
+        height: 200px;
+        margin: 5px auto 0;
+    }
+    .hi-slide .hi-next,
+    .hi-slide .hi-prev{
+         position: absolute;
+              top: 50%; 
+              width: 20px;
+              height: 20px; 
+              margin-top: -20px;     
+              border-radius: 50px; 
+              line-height: 40px;
+              text-align: center; 
+              cursor: pointer;
+              background-color: #000000; 
+              color: #ffffff;               
+              transition: all 0.6s;
+              font-size: 20px; 
+              font-weight: bold;
+            }
+           .hi-slide .hi-next:hover, 
+            .hi-slide .hi-prev:hover 
+            {
+            opacity: 1; 
+            background-color: #000;  
+            }
+            
+           .hi-slide .hi-prev { left: -60px; }
+           .hi-slide .hi-prev::before { content: '<'; }
+           .hi-slide .hi-next { right: -60px; }
+           .hi-slide .hi-next::before { content: '>'; }
+    
+            .hi-slide > ul
+                    { 
+                        list-style: none; 
+                        position: relative;
+                        width: 20px; 
+                        height: 20px; 
+                        margin: 0;
+                        padding: 0;
+                        align-content: center;
+            }
+            
+            
+        .hi-slide > ul > li {
+            overflow: hidden; 
+            position: absolute; 
+            z-index: 0; 
+            left: 0;
+            top: 0; 
+            width: 50px; 
+            height: 50px; 
+            margin: 0; 
+            padding: 0;
+            border: 1px solid #fff;              
+            background-color: #ffffff;
+            opacity: 1; 
+            cursor: pointer; }
+            
+        .hi-slide > ul > li > img { width: 100px; height: 100px; background-position: center;}
+
+ 
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="main">
+            <div class="content">
+                <div class="formation">
+                    <h1 class="first">Google</h1>
+<p class="company">Technology Company</p>
+                    <hr>
+                    <p class="url"><a href="https://google.com">https://google.com</a></p>
+                    <hr>
+                    <p class="wikicontent">Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple, and Facebook.<a href="wikipedia.com">Wikipedia</a></p>
+                    <ul class="list">
+                        <li class="titl"><p><b>CEO: </b><nobr></nobr>Sundar Pichai</p></li>
+                        <li class="titl"><p><b>Cofounder: </b>Larry Paige, Serge Brain</p></li>
+                        <li class="titl"><p><b>Founded: </b>1995</p></li>
+                        <li class="titl"><p><b>Type: </b>Subsidiary</p></li>
+                        <li class="titl"><p><b>Other: </b>Facebook, Yahoo, Apple</p></li>
+                    </ul>
+                    <hr>
+                    <h5>Related:</h5>
+                    .
+                    <div class="slide hi-slide">
+                        <div class="hi-prev"></div>
+                        <div class="hi-next"></div>
+                        <ul>
+                            <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAaVBMVEU6VZ////81Up0yT5xgc61+jbsvTZyXo8hFXaOirM0nSJmlrs7O1OUkRpkfQ5c1UZ1oerKHlcDp6/M9WKHHzeHV2ulxgravt9Td4Ozl6PGDkb7ByN5YbatQZ6j29/q3v9h2hrhMY6aQnMSsAnKHAAAC70lEQVR4nO3caXLiMBRFYdoihhhsQ5jDlPT+F9mdqv7bRrYQ7z7XOQug9BUWHiQzmRARERERERERERERERERqVe0IZQPCtaDHFwo62Yz/VrP3jtbrH0Sy7rYH46/YtpV1oPtX6jCbBel+2npThjq/Taa51AYmrdTH583YdHsP/r5nAnLTa/j05+w+ezv8yRsq/MQoB9hmPeegb6E5eU2DOhFWK4G+rwIw3CgD2G4Dge6ELaboXPQi7CJu4nwK6zvKUAHwvCVBHQgrFMmoQdh4jGqL2wviUB5YRP/uMKnsJ2mAtWF9XLkwjblcs2FsDqMXZh6LpQXhn06UFtYpZ7t5YX1wEczboTF/AlAaWFYP0OovPZU9pmGt9194W79sIq/Jt2uqqrytwbcxJ4NT9e6tR7soEIk8N749E2K7zjgubEe6dAi75yOboGxwrnTQ/RvRZTwIHy6e1SccF5Yj3N4UcJjbT3MhKKEh9J6mAlFCZWvyR4WJXxDqBxChPohRKgfQoT6IUSoH0KE+iFEqB9ChPqNQ1h0vKJcxWwt/aofvelsDFzNOlpECO9dH/DT+8ZUWMYgErNdfXuB8Ga7RPwCofHy2wuE59EfpQvbH9MXCNejF65st2q8QPhtu5Mhv/BmfE2TX/hhvGMqv3BpvBslv/BuvGUqv3A2+nloff+YX3gx3rmYX2j9CCC78Ga9NzO78GS9dTG7cDv679B8c2Z24e/R/9LsRy+8Wm/kzy60nobZhdb3TvmF9u8e5hYaP0p8gfB99PPQ/l2F3MKp+StDuYXWvuxC60eJ+YXm907ZhQJ/NlA+4d9ZOrrbH6WTzbyjmL+D/Oz6BNsl/H8V/y9E7TYpOz7BGveoceyn6QohQv0QItQPIUL9ECLUDyFC/RAi1A8hQv0QItQPIUL9ECLUDyFC/RAi1A8hQv0QItQPIUL9ECLUDyFC/RAi1A8hQv0QItQPIUL9ECLUDyFC/RAi1A8hQv0QItQPIUL9ECLs0R8aFUYEFLSeAgAAAABJRU5ErkJggg==" alt="Facebook"></li>
+                            <li><img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/alibaba-512.png" alt="Alibaba"></li>
+                            <li><img src="http://temperfield.com/wp-content/uploads/2017/09/Microsoft-Logo-icon-png-Transparent-Background.png" alt="Microsoft"></li>
+                            <li><img src="http://www.vectorico.com/download/social_media/Yahoo-Icon.png" alt="Yahoo"></li>
+                            <li><img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg" alt="Instagram"></li>
+                        </ul>
+                        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+                        <script type="text/javascript" src="jquery.hislide.js" ></script>
+                        <script>
+                            $('.slide').hiSlide();
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
