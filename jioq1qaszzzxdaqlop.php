@@ -1,5 +1,7 @@
 <?php
 include("config.php");
+/** This File is the main search result provider.
+In this file the data is taken from the database using MySQL and then send to the search.php file to show the search results**/
 
 // Remove unnecessary words from the search term and return them as an array
 function filterSearchKeys($term){
